@@ -1,0 +1,16 @@
+{
+  "name": "backend-mock",
+  "version": "1.0.0",
+  "description": "Post http methos saves what ever you send volately and Get http return everything sended",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JoaoLuiss",
+  "license": "ISC",
+  "dependencies": {
+    "ronin-mocks": "^0.1.6",
+    "ronin-server": "^0.1.3"
+  }
+}
